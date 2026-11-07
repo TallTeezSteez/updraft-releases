@@ -1,0 +1,8 @@
+{
+  "version": "0.6.0",
+  "notes": "- **Now on Mac** as well as Windows (Apple Silicon, macOS 13.3 or newer).\n- **Check for updates:** Updraft only looks when you click, and never updates by itself.\n- **Speech Models page:** download or remove speech models from inside the app.\n- **Safer phone transfers:** recordings and clipboard items are now encrypted on your Wi-Fi. Your phone warns once that the connection isn't private. That's expected on Wi-Fi you trust.\n- **Fewer lost dictations:** if the speech engine crashes mid-dictation, Updraft restarts it and tries your words again.\n- **Other security fixes** for your Claude key, the speech engine and shared meeting folders.\n\n**First install:** Updraft isn't signed by Apple or Microsoft, so you'll get a warning. On a Mac, go to System Settings > Privacy & Security and click Open Anyway. On Windows, click More info, then Run anyway.\n\n**Mac:** you may be asked once about Keychain. Enter your Mac password and click Always Allow.",
+  "file": "Updraft-0.6.0-arm64.dmg",
+  "url": "https://github.com/TallTeezSteez/updraft-releases/releases/download/v0.6.0/Updraft-0.6.0-arm64.dmg",
+  "sha256": "b9d1134fff5aa8a869931e1dc407ada2236ff0561b3436259433bc5d82f6166a",
+  "size": 265665909
+}
