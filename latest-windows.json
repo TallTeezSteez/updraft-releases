@@ -1,8 +1,8 @@
 {
-  "version": "0.7.2",
-  "notes": "## Updraft 0.7.2\r\n\r\n- **Ask Claude about your meetings from the web and your phone.** claude.ai and the Claude phone app can now search your meeting transcripts and AI notes, read-only. Updraft goes online through Tailscale (free) only while you have it switched on, and nothing gets in without your pairing word and a code you type on your PC. Go to Settings > Connectors, turn on \"Let web apps connect\" and follow the checklist. Your dictation history is never offered to web or phone apps.\r\n- **Screen recording** (off until you turn it on in Settings > General). Record your screen, mic and PC sound with a webcam bubble you can drag anywhere; Ctrl+Alt+R starts and stops it. Videos stay on this computer. Checked on Windows; the Mac version hasn't been tried on a Mac yet.\r\n- **Faster meeting list.** Changes to your meetings folder no longer make Updraft freeze for a moment while it re-reads the list.\r\n\r\n**To update:** Settings > About > Check for updates.",
-  "file": "Updraft-Setup-0.7.2.exe",
-  "url": "https://github.com/TallTeezSteez/updraft-releases/releases/download/v0.7.2/Updraft-Setup-0.7.2.exe",
-  "sha256": "f2cc3003c91eda68dad4c37452a6ccbd78e6e1868904eb825f12eb718d6ce20e",
-  "size": 327981399
+  "version": "0.7.3",
+  "notes": "## Updraft 0.7.3\r\n\r\n- **ChatGPT can search your meetings too.** Like claude.ai, ChatGPT on the web can now look through your meeting transcripts and AI notes, read-only (on ChatGPT Pro it's search only). It uses the same web access as claude.ai: turn on \"Let web apps connect\" in Settings > Connectors, add Updraft in ChatGPT's Apps & Connectors with your web address, then type the pairing word and the code. Your own notes and dictation history are never shared with web apps.\r\n- **Screen recording on the Mac is paused for now.** After 0.7.2 it was checked on a Mac: the webcam bubble, hiding Updraft's own controls, playback and the permission prompts all work. But PC sound in videos played slightly fast with small gaps, and dictation started a little slower while a recording used the mic. Until a fix passes the Mac speed check, the Screen recording switch on a Mac is greyed out (if you turned it on, it's off until then). Windows is unchanged.",
+  "file": "Updraft-Setup-0.7.3.exe",
+  "url": "https://github.com/TallTeezSteez/updraft-releases/releases/download/v0.7.3/Updraft-Setup-0.7.3.exe",
+  "sha256": "f628867e1968fac02f09b21c2cfdab5cdf5d02e94a0f4bee3a64e736e93aefdc",
+  "size": 327992729
 }
