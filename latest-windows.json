@@ -1,8 +1,8 @@
 {
-  "version": "0.7.1",
-  "notes": "## Updraft 0.7.1\r\n\r\n- **New slim pill.** The pill shrinks to a thin line when you're not using it. Point at the line and it grows into a small pill with Dictate and Meeting. Hold the dictation key and it opens into a voice wave that moves with your voice. When you let go, the wave pulses while it types, then shows \"Done\". Clicking the pill never pulls your cursor out of the app you're typing in.\r\n- **Off until you turn it on.** Go to Settings > General and turn on \"Slim pill\". Turn it off any time to get the old pill back.\r\n- **Just as fast.** The slim pill was tested against the old pill on the gaming PC and the Mac before it shipped. Dictation is just as fast with it on.\r\n\r\n**To update:** Settings > About > Check for updates.",
-  "file": "Updraft-Setup-0.7.1.exe",
-  "url": "https://github.com/TallTeezSteez/updraft-releases/releases/download/v0.7.1/Updraft-Setup-0.7.1.exe",
-  "sha256": "a99ef0e1b8ee425862bd9962025bf3a3ec3ac5c2198563fb085fc28ec2eeffcd",
-  "size": 327895354
+  "version": "0.7.2",
+  "notes": "## Updraft 0.7.2\r\n\r\n- **Ask Claude about your meetings from the web and your phone.** claude.ai and the Claude phone app can now search your meeting transcripts and AI notes, read-only. Updraft goes online through Tailscale (free) only while you have it switched on, and nothing gets in without your pairing word and a code you type on your PC. Go to Settings > Connectors, turn on \"Let web apps connect\" and follow the checklist. Your dictation history is never offered to web or phone apps.\r\n- **Screen recording** (off until you turn it on in Settings > General). Record your screen, mic and PC sound with a webcam bubble you can drag anywhere; Ctrl+Alt+R starts and stops it. Videos stay on this computer. Checked on Windows; the Mac version hasn't been tried on a Mac yet.\r\n- **Faster meeting list.** Changes to your meetings folder no longer make Updraft freeze for a moment while it re-reads the list.\r\n\r\n**To update:** Settings > About > Check for updates.",
+  "file": "Updraft-Setup-0.7.2.exe",
+  "url": "https://github.com/TallTeezSteez/updraft-releases/releases/download/v0.7.2/Updraft-Setup-0.7.2.exe",
+  "sha256": "f2cc3003c91eda68dad4c37452a6ccbd78e6e1868904eb825f12eb718d6ce20e",
+  "size": 327981399
 }
