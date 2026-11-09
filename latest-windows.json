@@ -1,8 +1,10 @@
 {
-  "version": "0.7.3",
-  "notes": "## Updraft 0.7.3\r\n\r\n- **ChatGPT can search your meetings too.** Like claude.ai, ChatGPT on the web can now look through your meeting transcripts and AI notes, read-only (on ChatGPT Pro it's search only). It uses the same web access as claude.ai: turn on \"Let web apps connect\" in Settings > Connectors, add Updraft in ChatGPT's Apps & Connectors with your web address, then type the pairing word and the code. Your own notes and dictation history are never shared with web apps.\r\n- **Screen recording on the Mac is paused for now.** After 0.7.2 it was checked on a Mac: the webcam bubble, hiding Updraft's own controls, playback and the permission prompts all work. But PC sound in videos played slightly fast with small gaps, and dictation started a little slower while a recording used the mic. Until a fix passes the Mac speed check, the Screen recording switch on a Mac is greyed out (if you turned it on, it's off until then). Windows is unchanged.",
-  "file": "Updraft-Setup-0.7.3.exe",
-  "url": "https://github.com/TallTeezSteez/updraft-releases/releases/download/v0.7.3/Updraft-Setup-0.7.3.exe",
-  "sha256": "f628867e1968fac02f09b21c2cfdab5cdf5d02e94a0f4bee3a64e736e93aefdc",
-  "size": 327992729
+  "version": "0.7.4",
+  "notes": "## Updraft 0.7.4\r\n\r\n- **Automatic updates (off for now).** A new setting, \"Update automatically\" in Settings > About, checks for a new version a minute after Updraft opens and then every 7 days, downloads it quietly, and shows \"Updraft X is ready. Restart to update.\" On Windows the update installs when you close Updraft. It never checks, downloads or installs during a dictation, a meeting recording, a screen recording or a Voice Test. Updates are now signed, so a tampered file is never installed automatically. On the Mac it downloads, then you finish with the usual disk steps. The setting is off until it has been tried; the Check for updates button works as before.\r\n- **Recordings tab.** Your screen recordings are listed in their own tab: play, rename, delete.\r\n- **Pill record button and smoother hover.** The slim pill has a screen record button, grows smoothly when you hover, and the screen recording options menu now has a Record button and stays on the right screen (Windows).",
+  "file": "Updraft-Setup-0.7.4.exe",
+  "url": "https://github.com/TallTeezSteez/updraft-releases/releases/download/v0.7.4/Updraft-Setup-0.7.4.exe",
+  "sha256": "604d634d8f2ff04cf254e8200af0aa3f9883bc2270344bfb8157cd7d97f77240",
+  "size": 328025270,
+  "releasedAt": "2026-11-09T11:53:42.935Z",
+  "signature": "FVCz9lkPWPMHtwSy4fFnp8N8+UZIv9EWTZVTDWpqjTVpeEULW40OnnqsCgaLtLwtgFC/6rVHixU/WWpCAC1gDg=="
 }
