@@ -1,10 +1,10 @@
 {
-  "version": "0.7.5",
-  "notes": "## Updraft 0.7.5\r\n\r\n- **Clipboard search for Claude (off by default).** A new switch in Settings > Connectors, \"Also let them search my clipboard history\", lets Claude Desktop and Claude Code on this PC search and list what you copied: text, links and pictures, never files. It works on this PC only, never over web access. Secret-looking text (passwords, keys, card numbers, one-time codes) is hidden and can't be searched.\r\n- **Capture my voice (off by default).** A new card in Settings > Dictation > Improvement keeps short clips of your voice only, for tuning Updraft to how you talk. Other voices are dropped before anything is saved. It pauses while you dictate, record a meeting or take the Voice Test, and stops at 20 GB. Clips stay on this computer, and \"Delete all clips\" removes them.\r\n- **Fixed: Claude Desktop extension stuck on \"starting\".** With Claude Desktop set to its built-in Node, the Updraft extension now connects right away.",
-  "file": "Updraft-Setup-0.7.5.exe",
-  "url": "https://github.com/TallTeezSteez/updraft-releases/releases/download/v0.7.5/Updraft-Setup-0.7.5.exe",
-  "sha256": "33eb59e6d9bf9aadc17130da14d78896fbfa376643ce8c52475e2e048f8f49a4",
-  "size": 330536901,
-  "releasedAt": "2026-11-10T12:22:51.290Z",
-  "signature": "I0jpCd1DkzDarSdG1TSBIFpLyhh/xR9KhHYnRsowCqJhGPxZhs2jFpiUWxnPklW9FSMS+zSz4lGtDLo3NpRaCQ=="
+  "version": "0.7.6",
+  "notes": "## Updraft 0.7.6\r\n\r\n- **Fixed: slim pill hiding behind windows.** With GlazeWM, the slim pill could slip behind other windows and stay there. It now brings itself back on top about once a second while you're not dictating.\r\n- **Fixed: slim pill buttons shaking.** When the slim pill opens on hover, its three buttons no longer jitter. They fade in once the pill has room for them.",
+  "file": "Updraft-Setup-0.7.6.exe",
+  "url": "https://github.com/TallTeezSteez/updraft-releases/releases/download/v0.7.6/Updraft-Setup-0.7.6.exe",
+  "sha256": "d10e14b1f483fdc8ba8ac4652c9975b9e295744e8c60565eb3a64ef2b87a1372",
+  "size": 330537064,
+  "releasedAt": "2026-11-10T21:32:24.456Z",
+  "signature": "baiZBI4OIvxe0/IvGlDao8xT6jgfkNZ6kjCNo/gTZdzU221iggpCiQupI+IRSH+1jNo87XukmzwHR02eSll3BQ=="
 }
