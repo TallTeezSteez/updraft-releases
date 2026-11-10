@@ -1,10 +1,10 @@
 {
-  "version": "0.7.4",
-  "notes": "## Updraft 0.7.4\r\n\r\n- **Automatic updates (off for now).** A new setting, \"Update automatically\" in Settings > About, checks for a new version a minute after Updraft opens and then every 7 days, downloads it quietly, and shows \"Updraft X is ready. Restart to update.\" On Windows the update installs when you close Updraft. It never checks, downloads or installs during a dictation, a meeting recording, a screen recording or a Voice Test. Updates are now signed, so a tampered file is never installed automatically. On the Mac it downloads, then you finish with the usual disk steps. The setting is off until it has been tried; the Check for updates button works as before.\r\n- **Recordings tab.** Your screen recordings are listed in their own tab: play, rename, delete.\r\n- **Pill record button and smoother hover.** The slim pill has a screen record button, grows smoothly when you hover, and the screen recording options menu now has a Record button and stays on the right screen (Windows).",
-  "file": "Updraft-Setup-0.7.4.exe",
-  "url": "https://github.com/TallTeezSteez/updraft-releases/releases/download/v0.7.4/Updraft-Setup-0.7.4.exe",
-  "sha256": "604d634d8f2ff04cf254e8200af0aa3f9883bc2270344bfb8157cd7d97f77240",
-  "size": 328025270,
-  "releasedAt": "2026-11-09T11:53:42.935Z",
-  "signature": "FVCz9lkPWPMHtwSy4fFnp8N8+UZIv9EWTZVTDWpqjTVpeEULW40OnnqsCgaLtLwtgFC/6rVHixU/WWpCAC1gDg=="
+  "version": "0.7.5",
+  "notes": "## Updraft 0.7.5\r\n\r\n- **Clipboard search for Claude (off by default).** A new switch in Settings > Connectors, \"Also let them search my clipboard history\", lets Claude Desktop and Claude Code on this PC search and list what you copied: text, links and pictures, never files. It works on this PC only, never over web access. Secret-looking text (passwords, keys, card numbers, one-time codes) is hidden and can't be searched.\r\n- **Capture my voice (off by default).** A new card in Settings > Dictation > Improvement keeps short clips of your voice only, for tuning Updraft to how you talk. Other voices are dropped before anything is saved. It pauses while you dictate, record a meeting or take the Voice Test, and stops at 20 GB. Clips stay on this computer, and \"Delete all clips\" removes them.\r\n- **Fixed: Claude Desktop extension stuck on \"starting\".** With Claude Desktop set to its built-in Node, the Updraft extension now connects right away.",
+  "file": "Updraft-Setup-0.7.5.exe",
+  "url": "https://github.com/TallTeezSteez/updraft-releases/releases/download/v0.7.5/Updraft-Setup-0.7.5.exe",
+  "sha256": "33eb59e6d9bf9aadc17130da14d78896fbfa376643ce8c52475e2e048f8f49a4",
+  "size": 330536901,
+  "releasedAt": "2026-11-10T12:22:51.290Z",
+  "signature": "I0jpCd1DkzDarSdG1TSBIFpLyhh/xR9KhHYnRsowCqJhGPxZhs2jFpiUWxnPklW9FSMS+zSz4lGtDLo3NpRaCQ=="
 }
