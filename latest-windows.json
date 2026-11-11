@@ -1,10 +1,10 @@
 {
-  "version": "0.7.6",
-  "notes": "## Updraft 0.7.6\r\n\r\n- **Fixed: slim pill hiding behind windows.** With GlazeWM, the slim pill could slip behind other windows and stay there. It now brings itself back on top about once a second while you're not dictating.\r\n- **Fixed: slim pill buttons shaking.** When the slim pill opens on hover, its three buttons no longer jitter. They fade in once the pill has room for them.",
-  "file": "Updraft-Setup-0.7.6.exe",
-  "url": "https://github.com/TallTeezSteez/updraft-releases/releases/download/v0.7.6/Updraft-Setup-0.7.6.exe",
-  "sha256": "d10e14b1f483fdc8ba8ac4652c9975b9e295744e8c60565eb3a64ef2b87a1372",
-  "size": 330537064,
-  "releasedAt": "2026-11-10T21:32:24.456Z",
-  "signature": "baiZBI4OIvxe0/IvGlDao8xT6jgfkNZ6kjCNo/gTZdzU221iggpCiQupI+IRSH+1jNo87XukmzwHR02eSll3BQ=="
+  "version": "0.7.7",
+  "notes": "## Updraft 0.7.7\r\n\r\n- **New: Shortcuts page.** One page lists every key combo in Updraft, with a search box. It flags two shortcuts that use the same keys, and \"Go to setting\" jumps straight to the right row. Off until you turn it on (Settings > App > \"Shortcuts page (new)\").\r\n- **New: screen recording on the Mac.** Screen recording now works on the Mac too, with your mic and the computer's sound. While a recording runs, dictation starts instantly. Off until you turn it on.\r\n- **Improved: Settings is easier to find your way around.** Settings now has 11 clear sections under group headings (Dictation, Capture, Look and feel, Connect, Data), clearer names for many settings, and a search box that looks through all of Settings. No setting changed its value.",
+  "file": "Updraft-Setup-0.7.7.exe",
+  "url": "https://github.com/TallTeezSteez/updraft-releases/releases/download/v0.7.7/Updraft-Setup-0.7.7.exe",
+  "sha256": "b9f31118d8fbb0293168ab516a5621a4410793dc8c8852d2a9bd13cc8e09b4cb",
+  "size": 330555817,
+  "releasedAt": "2026-11-11T19:03:45.077Z",
+  "signature": "zUVTXjFsUK655EemcvI+yxfNaF0FbGRQrnQ4uRd+us9c01IgDZf40hTjthiU+d4z9LT6eLTvSjmL/rPfAmSQAA=="
 }
