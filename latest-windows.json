@@ -1,10 +1,10 @@
 {
-  "version": "0.7.7",
-  "notes": "## Updraft 0.7.7\r\n\r\n- **New: Shortcuts page.** One page lists every key combo in Updraft, with a search box. It flags two shortcuts that use the same keys, and \"Go to setting\" jumps straight to the right row. Off until you turn it on (Settings > App > \"Shortcuts page (new)\").\r\n- **New: screen recording on the Mac.** Screen recording now works on the Mac too, with your mic and the computer's sound. While a recording runs, dictation starts instantly. Off until you turn it on.\r\n- **Improved: Settings is easier to find your way around.** Settings now has 11 clear sections under group headings (Dictation, Capture, Look and feel, Connect, Data), clearer names for many settings, and a search box that looks through all of Settings. No setting changed its value.",
-  "file": "Updraft-Setup-0.7.7.exe",
-  "url": "https://github.com/TallTeezSteez/updraft-releases/releases/download/v0.7.7/Updraft-Setup-0.7.7.exe",
-  "sha256": "b9f31118d8fbb0293168ab516a5621a4410793dc8c8852d2a9bd13cc8e09b4cb",
-  "size": 330555817,
-  "releasedAt": "2026-11-11T19:03:45.077Z",
-  "signature": "zUVTXjFsUK655EemcvI+yxfNaF0FbGRQrnQ4uRd+us9c01IgDZf40hTjthiU+d4z9LT6eLTvSjmL/rPfAmSQAA=="
+  "version": "0.7.8",
+  "notes": "## Updraft 0.7.8\r\n\r\n- **Improved: Updraft's folders now carry the Updraft name.** The first time 0.7.8 starts, it renames its old \"wisper-clone\" folders to \"updraft\", and \"Wisper Clone Meetings\" becomes \"Updraft Meetings\". Your settings, history, meetings and speech models stay right where they were, just under the new name. Nothing is copied or deleted. If a folder is busy, Updraft keeps using the old one and tries again next start.\r\n- **Improved: the last of the old name is gone from inside the app.** Behind the scenes, everything is now called Updraft. Your \"start with Windows\" setting, last open page and dismissed tips stay as they were.",
+  "file": "Updraft-Setup-0.7.8.exe",
+  "url": "https://github.com/TallTeezSteez/updraft-releases/releases/download/v0.7.8/Updraft-Setup-0.7.8.exe",
+  "sha256": "9f47e9e3224508351bad8778ed1edac576bcc9dc243118bb8f76c431926c9d0f",
+  "size": 330561757,
+  "releasedAt": "2026-11-13T21:23:54.409Z",
+  "signature": "TfdfCvufY+lYQy0/4cftuXC5wNWso+rmZ+obPEWj9lbt2icfZhLN7W9RLrg4yvILVb8b7SoTMyL1WboTEpcPAQ=="
 }
