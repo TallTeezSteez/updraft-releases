@@ -1,10 +1,10 @@
 {
-  "version": "0.7.6",
-  "notes": "## Updraft 0.7.6\n\n- **Fixed: slim pill hiding behind windows.** With GlazeWM, the slim pill could slip behind other windows and stay there. It now brings itself back on top about once a second while you're not dictating.\n- **Fixed: slim pill buttons shaking.** When the slim pill opens on hover, its three buttons no longer jitter. They fade in once the pill has room for them.",
-  "file": "Updraft-0.7.6-arm64.dmg",
-  "url": "https://github.com/TallTeezSteez/updraft-releases/releases/download/v0.7.6/Updraft-0.7.6-arm64.dmg",
-  "sha256": "f78f7b28dd2d1593d2bde27eeaa740de8ed869cbc77a5d0d328d09e287908be9",
-  "size": 269542762,
-  "releasedAt": "2026-11-10T22:00:11.309Z",
-  "signature": "HLive7w4Q/4tJVc+sMoKwwLPGmrxTILfdUAmLOmoFSMPTRGn22J/lt4qMUEZ4vFkZm8R8HU4fefPWDvllE5ICg=="
+  "version": "0.8.1",
+  "notes": "## Updraft 0.8.1\n\nA tidier Updraft that works with Drift: a shorter menu on the left, your notes and captures sent to Drift, and Documents retired now that Carbon and Drift handle scans.\n\n### New\n- **New: Send to Drift.** Finished meeting notes, open to-dos, recording transcripts and your Scratchpad go into Drift on their own. Screenshots go too when you right-click one and pick \"Send to Drift\". Nothing happens if Drift isn't installed. You can turn it off in Settings › Connectors › Drift.\n\n### Improved\n- **Improved: five buttons on the left.** Home, Meetings, Captures, Clipboard and Voice. Captures holds Recordings, Screenshots and Scratchpad as tabs; Voice holds Dictionary, Snippets, Style, Transforms and Insights. Ctrl+1 to Ctrl+5 jump between them.\n- **Improved: one home for scans.** The Documents page is gone. Phone scans now go to Carbon, and Drift keeps them. Your old scan files stay where they were on disk.",
+  "file": "Updraft-0.8.1-arm64.dmg",
+  "url": "https://github.com/TallTeezSteez/updraft-releases/releases/download/v0.8.1/Updraft-0.8.1-arm64.dmg",
+  "sha256": "a167d380869d806f803d945c3c12fb6a2820d9752c9733393072ef59e45ee1a4",
+  "size": 271831206,
+  "releasedAt": "2026-11-15T20:57:44.423Z",
+  "signature": "UHp61/rNPV5hKsRRE/S6aKcnyBBWX3RbxuDUCyhuDXYyMBatRxCg3HuQdWp6bkir1iPAS5cdaie3fMcv4o11Ag=="
 }
