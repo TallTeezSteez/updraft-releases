@@ -1,10 +1,10 @@
 {
-  "version": "0.8.0",
-  "notes": "## Updraft 0.8.0\r\n\r\nScreenshots arrive: a full screenshot tool built into Updraft, checked overnight so dictation stays just as fast. New features are off until you turn them on.\r\n\r\n### New\r\n- **New: Screenshots (Windows).** Press Ctrl+Alt+Shift+S, drag a box, click a window, or press Enter for the whole screen. The picture is copied and saved in Pictures › Updraft Screenshots. You can draw on it (arrows, boxes, text, numbered steps, blur, crop), pin it on top of your other windows, copy the text out of it, and find it later on the new Screenshots page. Also: a delay timer, \"same box again\", and an optional Print Screen key. Off until you turn it on. The Mac gets it after its own speed check.\r\n- **New: Screenshots extras.** Search your screenshots by the words in them, blur emails and phone numbers automatically, a color picker, scrolling capture for long pages, and \"Ask Claude about this\". Each has its own switch and is off until you turn it on.\r\n- **New: Screenshot button on the pill.** When Screen recording and Screenshots are both on, the pill gets a Screenshot button, and the screen-record right-click menu gets \"Take a screenshot\".\r\n- **New: scans from Carbon.** Scans you send to Carbon from your phone now land in Documents on their own, tagged Carbon. Off until you turn it on, and Carbon needs to be running.\r\n\r\n### Improved\r\n- **Improved: big clipboard pictures.** Claude can now read clipboard pictures up to 8 MB (was 1 MB), and they're handled in the background so dictation never waits on them.",
-  "file": "Updraft-Setup-0.8.0.exe",
-  "url": "https://github.com/TallTeezSteez/updraft-releases/releases/download/v0.8.0/Updraft-Setup-0.8.0.exe",
-  "sha256": "84e444c9e7701933e4aa19f499b51c1b30a959cae5e038c5488e670de8cf411e",
-  "size": 334233901,
-  "releasedAt": "2026-11-15T15:11:01.054Z",
-  "signature": "tdn8S8bva8lgEZrW8hhoUGZ13B+9ZQ+cHBCU97BdK4ZRlxGU3MVJq/y/fPv5BppWKDqDPhT7dEvIBfs+HaPeAw=="
+  "version": "0.8.1",
+  "notes": "## Updraft 0.8.1\r\n\r\nA tidier Updraft that works with Drift: a shorter menu on the left, your notes and captures sent to Drift, and Documents retired now that Carbon and Drift handle scans.\r\n\r\n### New\r\n- **New: Send to Drift.** Finished meeting notes, open to-dos, recording transcripts and your Scratchpad go into Drift on their own. Screenshots go too when you right-click one and pick \"Send to Drift\". Nothing happens if Drift isn't installed. You can turn it off in Settings › Connectors › Drift.\r\n\r\n### Improved\r\n- **Improved: five buttons on the left.** Home, Meetings, Captures, Clipboard and Voice. Captures holds Recordings, Screenshots and Scratchpad as tabs; Voice holds Dictionary, Snippets, Style, Transforms and Insights. Ctrl+1 to Ctrl+5 jump between them.\r\n- **Improved: one home for scans.** The Documents page is gone. Phone scans now go to Carbon, and Drift keeps them. Your old scan files stay where they were on disk.",
+  "file": "Updraft-Setup-0.8.1.exe",
+  "url": "https://github.com/TallTeezSteez/updraft-releases/releases/download/v0.8.1/Updraft-Setup-0.8.1.exe",
+  "sha256": "e594f017c16dd1949d038f8f414be7165443f11a5e4437778263ca9a46f27014",
+  "size": 332815017,
+  "releasedAt": "2026-11-15T16:32:04.617Z",
+  "signature": "eN9oDVJpueCL+P2Rds8XsyooTdwIHJaTP7v+Pa4/eA8xKr3xeEWirYygpn+75OqZu19JYbp8T/32asZznYA8Cw=="
 }
