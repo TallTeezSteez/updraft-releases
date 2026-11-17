@@ -15,7 +15,7 @@ These links always get the newest version. Older versions: [all releases](https:
 
 Updraft updates itself after that.
 
-More about Updraft, with screenshots: https://draftline-gules.vercel.app/updraft
+More about Updraft, with screenshots: https://draftlineapps.com/updraft
 
 `latest-windows.json` and `latest-mac.json` are the signed files installed copies read to update themselves.
 
