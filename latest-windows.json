@@ -1,10 +1,10 @@
 {
-  "version": "0.8.1",
-  "notes": "## Updraft 0.8.1\r\n\r\nA tidier Updraft that works with Drift: a shorter menu on the left, your notes and captures sent to Drift, and Documents retired now that Carbon and Drift handle scans.\r\n\r\n### New\r\n- **New: Send to Drift.** Finished meeting notes, open to-dos, recording transcripts and your Scratchpad go into Drift on their own. Screenshots go too when you right-click one and pick \"Send to Drift\". Nothing happens if Drift isn't installed. You can turn it off in Settings › Connectors › Drift.\r\n\r\n### Improved\r\n- **Improved: five buttons on the left.** Home, Meetings, Captures, Clipboard and Voice. Captures holds Recordings, Screenshots and Scratchpad as tabs; Voice holds Dictionary, Snippets, Style, Transforms and Insights. Ctrl+1 to Ctrl+5 jump between them.\r\n- **Improved: one home for scans.** The Documents page is gone. Phone scans now go to Carbon, and Drift keeps them. Your old scan files stay where they were on disk.",
-  "file": "Updraft-Setup-0.8.1.exe",
-  "url": "https://github.com/TallTeezSteez/updraft-releases/releases/download/v0.8.1/Updraft-Setup-0.8.1.exe",
-  "sha256": "e594f017c16dd1949d038f8f414be7165443f11a5e4437778263ca9a46f27014",
-  "size": 332815017,
-  "releasedAt": "2026-11-15T16:32:04.617Z",
-  "signature": "eN9oDVJpueCL+P2Rds8XsyooTdwIHJaTP7v+Pa4/eA8xKr3xeEWirYygpn+75OqZu19JYbp8T/32asZznYA8Cw=="
+  "version": "0.8.2",
+  "notes": "## Updraft 0.8.2\r\n\r\nSame Updraft as 0.8.1. The only change is behind the scenes: the download now has a name that never changes, so the link on the website always gets the newest version.\r\n\r\n### Fixed\r\n- **Fixed: one download link for good.** The newest installer is always `Updraft-Setup.exe` (Windows) and `Updraft-Mac.dmg` (Mac). Updates work the same as before.",
+  "file": "Updraft-Setup-0.8.2.exe",
+  "url": "https://github.com/TallTeezSteez/updraft-releases/releases/download/v0.8.2/Updraft-Setup-0.8.2.exe",
+  "sha256": "548ea3caa82021666a3ebf62ff271e9f9e9301c95a447272511737e42e7ba288",
+  "size": 332815005,
+  "releasedAt": "2026-11-17T02:33:12.527Z",
+  "signature": "uYd6rOybz9dGLwXGYA7QQVlGq84lvnqFZc4AEqChTullTpXPjqxWWPwgkxMZ1o0t2yW0AJnp+uacJ2xqMp6tBQ=="
 }
